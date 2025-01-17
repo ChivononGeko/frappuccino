@@ -15,7 +15,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/frappuccino.git
+git clone git@github.com:ChivononGeko/frappuccino.git
 cd frappuccino
 ```
 
@@ -39,7 +39,7 @@ docker-compose up --build
 ## Strcuture 🗂️ 
 
 ```bash
-frappuchino/
+frappuccino/
 ├── cmd/
 │  └── main.go  
 ├── internal/
