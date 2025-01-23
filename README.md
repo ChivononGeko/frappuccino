@@ -49,7 +49,7 @@ frappuccino/
 │  │  └── db.go
 │  ├── handlers/ 			
 │  │  ├── inventory_handler.go  
-|  |  ├── menu_handler.go  
+│  │  ├── menu_handler.go  
 │  │  ├── order_handler.go  
 │  │  ├── reports_handler.go  
 │  │  └── utils.go  
@@ -79,7 +79,7 @@ frappuccino/
 │  └──services/ 
 │     ├── inventory_service.go  
 │     ├── menu_service.go  
-|     ├── order_service.go  
+│     ├── order_service.go  
 │     └── report_service.go  
 ├── docker-compose.yml
 ├── Dockerfile
@@ -394,7 +394,6 @@ The API will be available at `http://localhost:8080`.
 
 This project is licensed under the alem.school license
 
-## Authors ✍🏻
+## Author ✍🏻
 
-- @maabylka
-- @dausetov
+- Damir Usetov
